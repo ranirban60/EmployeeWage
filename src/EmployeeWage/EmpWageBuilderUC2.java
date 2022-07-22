@@ -1,6 +1,6 @@
 package EmployeeWage;
 
-public class EmployeeWageBuilderUC2 {
+public class EmpWageBuilderUC2 {
 	
 public static void main(String[] args){
 		int IS_FULL_TIME = 1;
